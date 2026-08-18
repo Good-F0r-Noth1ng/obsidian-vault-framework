@@ -1,5 +1,7 @@
 # Obsidian Vault Framework
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 A reusable, source-aware Obsidian vault template for long-term learning, research, and project knowledge.
 
 ## What this repository provides
