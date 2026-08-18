@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Raw Import"
+  short_description: "Safely import original source materials into a vault."
+  default_prompt: "Use $obsidian-raw-import to plan a verified raw-material import."

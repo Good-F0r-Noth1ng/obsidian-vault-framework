@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Vault Lint"
+  short_description: "Read-only audit of vault structure, links, and evidence."
+  default_prompt: "Use $obsidian-vault-lint to audit this vault without changing files."

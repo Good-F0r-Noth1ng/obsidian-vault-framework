@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Derived Import"
+  short_description: "Import readable artifacts linked to original vault sources."
+  default_prompt: "Use $obsidian-derived-import to plan a derived-artifact import."

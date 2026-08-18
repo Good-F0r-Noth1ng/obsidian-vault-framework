@@ -1,0 +1,28 @@
+# Operating-system and editor state
+.DS_Store
+Thumbs.db
+.obsidian/workspace*.json
+.obsidian/cache/
+.trash/
+
+# Temporary and local artifacts
+*.tmp
+*.bak
+*.swp
+
+# Live vault content is intentionally excluded from the public framework.
+inbox/**
+!inbox/.gitkeep
+archive/**
+!archive/.gitkeep
+raw/**
+!raw/**/
+!raw/**/.gitkeep
+derived/**
+!derived/**/
+!derived/**/.gitkeep
+wiki/**
+!wiki/index.md
+!wiki/log.md
+!wiki/**/
+!wiki/**/.gitkeep

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Wiki Ingest"
+  short_description: "Create source-grounded curated notes from one source unit."
+  default_prompt: "Use $obsidian-ingest-to-wiki to plan a source-grounded wiki note."
